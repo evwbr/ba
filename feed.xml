@@ -8,21 +8,38 @@
 <atom:link href="https://evwbr.github.io/ba/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/ba/</link>
 <description>Notícias da Bahia (últimas 24h) - Evo Web News</description>
-<lastBuildDate>Fri, 06 Mar 2026 22:40:16 GMT</lastBuildDate>
+<lastBuildDate>Sat, 07 Mar 2026 01:40:19 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Anac aprova multas de até R$ 17,5 mil para passageiros indisciplinados em voos no Brasil]]></title>
-<link>https://evwbr.github.io/ba/p/bamulti_b0caf6f5225635c104b1696ee8cb46077da65b43/</link>
+<title><![CDATA[Violência contra mulheres cristãs cresce no Brasil, aponta pesquisa]]></title>
+<link>https://evwbr.github.io/ba/p/bamulti_a57573e3b91240420c6140a190d69243972caedb/</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Fri, 06 Mar 2026 22:14:00 GMT</pubDate>
+<pubDate>Sat, 07 Mar 2026 00:45:00 GMT</pubDate>
 <category><![CDATA[Bahia]]></category>
-<guid isPermaLink="false"><![CDATA[bamulti:b0caf6f5225635c104b1696ee8cb46077da65b43]]></guid>
-<description><![CDATA[A Anac estabeleceu punições para passageiros que causarem confusão em aeroportos e aeronaves, incluindo multas e proibição de embarque.]]></description>
+<guid isPermaLink="false"><![CDATA[bamulti:a57573e3b91240420c6140a190d69243972caedb]]></guid>
+<description><![CDATA[Em 2025, 42,7% das mulheres evangélicas e 35,1% das católicas foram vítimas de violência sexual no Brasil.]]></description>
 <content:encoded><![CDATA[
-<p>A Agência Nacional de Aviação Civil (Anac) aprovou regras para punir passageiros indisciplinados durante voos no Brasil.</p>
-<p>As medidas incluem a proibição de embarque em aeronaves por até 12 meses e multas que podem chegar a R$ 17,5 mil,.</p>
-<p>O objetivo da determinação é garantir a segurança dentro dos aviões, diante do aumento de casos de tumulto, confusão e desrespeito.</p>
-<p>Comportamentos considerados indisciplinados incluem provocar tumulto a bordo, desobedecer instruções da tripulação, adotar condutas agressivas ou violentas e colocar em risco a segurança do voo e dos demais passageiros.</p>
+<p>A pesquisa Visível e Invisível: a Vitimização de Mulheres no Brasil revelou que o índice de agressões contra mulheres cristãs tem aumentado ao longo dos anos. O estudo foi realizado pelo Fórum Brasileiro de Segurança Pública em parceria com o Instituto Datafolha.</p>
+<p>O levantamento mostrou que 42,7% das mulheres que se identificam como evangélicas e 35,1% das católicas sofreram violação em 2025. O documento também analisou o papel da religião na vida das vítimas, que pode ser tanto prejudicial quanto acolhedor.</p>
+<p>Fernanda Lordelo, secretária municipal de Políticas para Mulheres, Infância e Juventude de Salvador, afirmou que a prefeitura tem adotado medidas para conter o crescimento da violência. Ela ressaltou que a violência doméstica e familiar ocorre em todos os espaços, inclusive em instituições religiosas.</p>
+<p>Para combater o problema, a secretaria tem promovido ações de conscientização para que as pessoas saibam identificar e se proteger da violência, sem estereotipar ambientes religiosos.</p>
+<p>No dia 7 de março, será realizada a I Caminhada de Mulheres Evangélicas contra o Feminicídio, com saída do Campo Grande em direção à Praça da Piedade, organizada pelo grupo Mulheres Evangélicas contra o Feminicídio, fundado a partir do convite da pastora Gicélia.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Polícia Federal prende duas pessoas em operação contra fraudes bancárias na Bahia]]></title>
+<link>https://evwbr.github.io/ba/p/bamulti_57c65241702d0dddd575449951ca3e520f973dcb/</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sat, 07 Mar 2026 00:39:00 GMT</pubDate>
+<category><![CDATA[Bahia]]></category>
+<guid isPermaLink="false"><![CDATA[bamulti:57c65241702d0dddd575449951ca3e520f973dcb]]></guid>
+<description><![CDATA[Duas pessoas foram presas e uma terceira detida em operação da Polícia Federal que investiga esquema de fraudes bancárias com prejuízo superior a R$ 500 mil.]]></description>
+<content:encoded><![CDATA[
+<p>A operação da Polícia Federal ocorreu na manhã de sexta-feira, 6, com foco principal na cidade de Itabuna, no sul da Bahia, onde foram efetuadas as duas prisões. Ao todo, foram cumpridos dez mandados de busca e apreensão e dois mandados de prisão preventiva.</p>
+<p>A investigação revelou que os suspeitos criaram pelo menos 17 contas bancárias com documentos falsificados em agências de Conceição do Coité, Prado, Valença e São Paulo. Com as contas, o grupo solicitava empréstimos fraudulentos, transferia os valores entre contas para dificultar o rastreamento e distribuía o dinheiro entre os envolvidos.</p>
+<p>O golpe causou prejuízo superior a R$ 500 mil às instituições financeiras. A área de segurança da Caixa Econômica Federal colaborou na identificação das movimentações suspeitas, e a Polícia Federal rastreou parte do caminho do dinheiro obtido ilegalmente.</p>
+<p>Dos dez mandados de busca, nove foram cumpridos em Itabuna e um em Entre Rios. Uma terceira pessoa foi detida em flagrante durante a operação, ouvida e posteriormente liberada.</p>
+<p>Os investigados podem responder por associação criminosa, estelionato e lavagem de dinheiro. A operação foi denominada Amêndoa Negra, referência ao mecanismo de ocultação de valores utilizado pelo grupo.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
