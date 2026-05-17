@@ -198,5 +198,29 @@
     "pageUrl": "https://evwbr.github.io/ba/p/bamulti_b4b410d31deb357e67c5c290cc3044dccc93257b/",
     "usedAt": 1779054907988,
     "usedAtIso": "2026-05-17T21:55:07.988Z"
+  },
+  "source:622d0340b9aa4c95ed4891d70ea33405c5a1a5e1": {
+    "url": "https://atarde.com.br/bahia/pescador-e-achado-morto-na-ba-apos-desaparecer-durante-viagem-de-barco-1389148",
+    "title": "Pescador de 28 anos é encontrado morto após desaparecer em alto-mar na costa de Porto Seguro",
+    "guid": "bamulti:622d0340b9aa4c95ed4891d70ea33405c5a1a5e1",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_622d0340b9aa4c95ed4891d70ea33405c5a1a5e1/",
+    "usedAt": 1779062106540,
+    "usedAtIso": "2026-05-17T23:55:06.540Z"
+  },
+  "source:1086da4d0de6a119d1bb67242d6ebe5212c550c2": {
+    "url": "https://atarde.com.br/esportes/ecbahia/pressionado-rogerio-ceni-revela-se-pensa-em-pedir-demissao-1389146",
+    "title": "Torcida protesta contra Rogério Ceni após empate do Bahia com Grêmio na Arena Fonte Nova",
+    "guid": "bamulti:1086da4d0de6a119d1bb67242d6ebe5212c550c2",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_1086da4d0de6a119d1bb67242d6ebe5212c550c2/",
+    "usedAt": 1779062106540,
+    "usedAtIso": "2026-05-17T23:55:06.540Z"
+  },
+  "source:280d17386d75085dc15cc68f832e7e63ddcab1e4": {
+    "url": "https://atarde.com.br/salvador/salvador-tera-semana-chuvosa-enquanto-el-nino-ganha-forca-confira-1389132",
+    "title": "Previsão indica semana chuvosa em Salvador com alerta para avanço do El Niño",
+    "guid": "bamulti:280d17386d75085dc15cc68f832e7e63ddcab1e4",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_280d17386d75085dc15cc68f832e7e63ddcab1e4/",
+    "usedAt": 1779062106540,
+    "usedAtIso": "2026-05-17T23:55:06.540Z"
   }
 }
