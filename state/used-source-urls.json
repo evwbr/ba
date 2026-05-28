@@ -3574,5 +3574,29 @@
     "pageUrl": "https://evwbr.github.io/ba/p/bamulti_3b058ae025836144a0b39fdea85631583a2c4f3c/",
     "usedAt": 1779965706422,
     "usedAtIso": "2026-05-28T10:55:06.422Z"
+  },
+  "source:de934dbc4154e6cc3bf09a18cbcdcf70fed3f98d": {
+    "url": "https://salvadornoticia.com/mototaxista-e-morto-a-tiros-no-bairro-de-itapua-em-salvador",
+    "title": "Mototaxista é assassinado a tiros no bairro de Itapuã, em Salvador",
+    "guid": "bamulti:73b5be8a4a179a7e0d2902673bdbec6a6a43fe98",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_73b5be8a4a179a7e0d2902673bdbec6a6a43fe98/",
+    "usedAt": 1779969306655,
+    "usedAtIso": "2026-05-28T11:55:06.655Z"
+  },
+  "source:3fbffae41b839dda31da78a80efc0f031818bbf8": {
+    "url": "https://atarde.com.br/educacao/curso-gratuito-de-preparacao-para-enem-encerra-inscricoes-nesta-quinta-1390266",
+    "title": "Secretaria de Políticas para Mulheres recebe inscrições para curso preparatório gratuito ao Enem",
+    "guid": "bamulti:3fbffae41b839dda31da78a80efc0f031818bbf8",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_3fbffae41b839dda31da78a80efc0f031818bbf8/",
+    "usedAt": 1779969306655,
+    "usedAtIso": "2026-05-28T11:55:06.655Z"
+  },
+  "source:6aa9c55ec224df710fd56e271922a3bfcab1867b": {
+    "url": "https://atarde.com.br/policia/trafico-de-armas-tres-homens-sao-presos-por-venda-ilegal-na-bahia-1390265",
+    "title": "Três homens são presos em operação contra tráfico de armas em Salvador e Cachoeira",
+    "guid": "bamulti:6aa9c55ec224df710fd56e271922a3bfcab1867b",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_6aa9c55ec224df710fd56e271922a3bfcab1867b/",
+    "usedAt": 1779969306655,
+    "usedAtIso": "2026-05-28T11:55:06.655Z"
   }
 }
