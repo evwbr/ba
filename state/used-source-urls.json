@@ -3446,5 +3446,29 @@
     "pageUrl": "https://evwbr.github.io/ba/p/bamulti_631e8706bff1ebc3bd0abddb63dea39be75a5a46/",
     "usedAt": 1779926106111,
     "usedAtIso": "2026-05-27T23:55:06.111Z"
+  },
+  "source:9adfb538c7f9ba05b45acb22ca62f48e27013224": {
+    "url": "https://atarde.com.br/esportes/ecvitoria/finalista-vitoria-vence-o-abc-e-avanca-a-decisao-da-copa-do-nordeste-1390244",
+    "title": "Vitória vence ABC por 4 a 3 e avança à final da Copa do Nordeste",
+    "guid": "bamulti:9adfb538c7f9ba05b45acb22ca62f48e27013224",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_9adfb538c7f9ba05b45acb22ca62f48e27013224/",
+    "usedAt": 1779936906099,
+    "usedAtIso": "2026-05-28T02:55:06.099Z"
+  },
+  "source:d1731bbdaf5a9d5a04bfc9afa604161f3afaec9f": {
+    "url": "https://atarde.com.br/politica/fim-da-escala-6x1-e-vitoria-para-o-planalto-mas-mostra-brasil-dividido-1390241",
+    "title": "Câmara aprova fim da escala 6x1 com transição gradual e divide opiniões no país",
+    "guid": "bamulti:d1731bbdaf5a9d5a04bfc9afa604161f3afaec9f",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_d1731bbdaf5a9d5a04bfc9afa604161f3afaec9f/",
+    "usedAt": 1779936906099,
+    "usedAtIso": "2026-05-28T02:55:06.099Z"
+  },
+  "source:8d965e442aa07b8474e23c8ce3498c5a03f81677": {
+    "url": "https://atarde.com.br/bahia/bahia-amplia-gratificacao-para-professores-da-socioeducacao-entenda-1390239",
+    "title": "Assembleia Legislativa da Bahia aprova gratificação para professores do sistema socioeducativo",
+    "guid": "bamulti:8d965e442aa07b8474e23c8ce3498c5a03f81677",
+    "pageUrl": "https://evwbr.github.io/ba/p/bamulti_8d965e442aa07b8474e23c8ce3498c5a03f81677/",
+    "usedAt": 1779936906099,
+    "usedAtIso": "2026-05-28T02:55:06.099Z"
   }
 }
